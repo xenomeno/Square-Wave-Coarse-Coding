@@ -1,4 +1,4 @@
-# Square-Wave-Coarse-Coding
+# Square Wave Coarse Coding
 
 <b>Chapter 9: Introduction to Algorithms(2nd edition) by Sutton &amp; Barto</b>
 
